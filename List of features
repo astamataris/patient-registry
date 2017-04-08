@@ -1,0 +1,26 @@
+1. Implemented Java GUI application. The GUI consists of JFrames, Jtable, Jbuttons, a variety of action listeners,
+2. The practitioner needs to login with the username and password "admin" and "pass" respectively.
+3.Can only register a patient using the minimum mandatory information (Name, Surname, mobile phone, DOB, Emergency Contact, Emergency contact number
+and next Appointment).
+4. The practitioner is able to upload one profile picture and four images/scans.
+5.The field containing medical condition can execute four simultaneous google searches for illnesses written, in the browser of the practitioner.
+6.Can delete/update photos of patient or completely delete his records including the pictures. The user needs to provide confirmation in both cases
+7.The search text box in the home page searches based on all stored fields and updates the table accordingly.
+8.Click on a patient in the table to view/edit patients details.
+9.(Optional) The user can export the database as a CSV file in his directory, and can also import a CSV file and append the current database. The CSV file needs to be
+correctly formatted. 
+
+Additional features:
+
+1. JTabed Panes to switch between profile pictures and scans/images.
+2. Field Validation: Ensure the user enters numbers in the phone number fields and the DOB and next appointments are valid i.e. DOB should be older than the current day and next appointment should be after the current date.
+3. The look up illness button picks up up to four illnesses entered and opens them in separate tabs.
+4.Highlight mandatory text fields.
+5.Used an external library for my date pickers, JCalendar from (http://toedter.com/jcalendar/)
+6.Coloured my panels to give a distinct look
+ 
+VIDEO LINK:
+
+https://drive.google.com/file/d/0BwOaotqDn0sQT01qWFBqcXpIeFU/view?usp=sharing
+
+
