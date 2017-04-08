@@ -15,7 +15,7 @@ You are required to design and implement a simple patient management system with
  8. **(Optional)** Export a list of selected patient records as a comma separated file or any other format.
 9. **(Optional)** Import a comma separated (or the format used in 8) file containing patients’ records into the system. The new patients data will be appended to the existing ones already stored in the management system.
 Note: It is NOT mandatory to use a database to store patients’ data. You can store it in a text file.
-
+___
 ## Requirements implemented
 1. Implemented Java GUI application. The GUI consists of JFrames, Jtable, Jbuttons, a variety of action listeners,
 2. The practitioner needs to login with the username and password "admin" and "pass" respectively.
@@ -28,7 +28,7 @@ and next Appointment).
 8. Click on a patient in the table to view/edit patients details.
 9. (Optional) The user can export the database as a CSV file in his directory, and can also import a CSV file and append the current database. The CSV file needs to be
 correctly formatted. 
-
+___
 ### Additional features implemented:
 
 1. JTabed Panes to switch between profile pictures and scans/images.
@@ -37,6 +37,3 @@ correctly formatted.
 4. Highlight mandatory text fields.
 5. Used an external library for my date pickers, JCalendar from (http://toedter.com/jcalendar/)
 6. Coloured my panels to give a distinct look
-
-
-
