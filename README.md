@@ -28,7 +28,7 @@ and next Appointment).
 8. Click on a patient in the table to view/edit patients details.
 9. (Optional) The user can export the database as a CSV file in his directory, and can also import a CSV file and append the current database. The CSV file needs to be
 correctly formatted. 
-___
+
 ### Additional features implemented:
 
 1. JTabed Panes to switch between profile pictures and scans/images.
